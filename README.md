@@ -8,6 +8,7 @@ This project demonstrates how to generate music using an LSTM (Long Short-Term M
 - 🧠 Trains an LSTM neural network to predict the next note
 - 🎼 Generates new music by sampling predictions
 - 🔊 Saves the output as a playable MIDI file
--🎵 This notebook uses input MIDI files from  Kaggle dataset-http://www.piano-midi.de.
+-🎵 This notebook uses input MIDI files from  Kaggle dataset https://www.piano-midi.de/
+
 
 
